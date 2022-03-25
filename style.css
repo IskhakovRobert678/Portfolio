@@ -1,0 +1,223 @@
+body {
+  text-decoration: none;
+  font-size: 72px;
+  font-weight: bold;
+  color: white;
+}
+
+.cont1 {
+  display: flex;
+  justify-content: center;
+  background-color: green;
+  width: 100%;
+  height: 670px;
+}
+.in-cont {
+  background-color: grey;
+  width: 1170px;
+  height: 670px;
+  padding: 32px 0;
+  margin: 0 241px;
+}
+.menu {
+  background-color: blue;
+  width: auto;
+  height: 48px;
+}
+.mytable {
+  display: flex;
+  background-color: blue;
+  width: 1170px;
+  height: 494px;
+  margin: 40px 0;
+}
+.left-table {
+  background-color: black;
+  width: 665px;
+  height: 460px;
+  padding: 48px;
+}
+.right-table {
+  background-color: pink;
+  width: 505px;
+  height: 494px;
+  padding: 48px;
+}
+/*+++++++++++++++++++++++++++cont2++++-+++++++++++++++++++++++++*/
+.cont2 {
+  display: flex;
+  height: 580px;
+  width: 100%;
+}
+.left-picture {
+  background-color: pink;
+  width: 50%;
+  height: 580px;
+}
+.right-slider {
+  background-color: blue;
+  width: 50%;
+  height: 580px;
+}
+/*+++++++++++++++++++++++++++cont3++++++++++++++++++++++++++++++*/
+.myserv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #1b242f;
+  width: 100%;
+  height: 638px;
+  padding: 80px 0;
+}
+.name-serv {
+  background-color: green;
+  width: 1170px;
+  height: 126px;
+}
+.elem-serv {
+  background-color: blue;
+  width: 1170px;
+  height: 280px;
+}
+/*+++++++++++++++++++++++++++cont4++++++++++++++++++++++++++++++*/
+
+.myexpr {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  width: 100%;
+  height: 1210px;
+  padding: 80px 0;
+}
+.name-expr {
+  background-color: blue;
+  width: 1170px;
+  height: 126px;
+}
+.elem-expr {
+  display: flex;
+  background-color: aqua;
+  width: 1170px;
+  height: 875px;
+}
+.part1-expr {
+  background-color: yellow;
+  width: 50%;
+  height: 875px;
+}
+.part2-expr {
+  background-color: green;
+  width: 50%;
+  height: 875px;
+}
+/*+++++++++++++++++++++++++++cont5++++++++++++++++++++++++++++++*/
+.myportf {
+  background-color: #f4f4f4;
+  width: 100%;
+  height: 1008px;
+  padding: 80px 0 0;
+}
+.name-portf {
+  background-color: aqua;
+  width: 100%;
+  height: 126px;
+}
+.elem-portf {
+  background-color: grey;
+  width: 100%;
+  height: 751px;
+}
+.button-portf {
+  background-color: blue;
+  width: 100%;
+  height: 50px;
+  margin: 48px 0 64px;
+}
+.pict-portf {
+  background-color: green;
+  width: 100%;
+  height: 637px;
+}
+/*+++++++++++++++++++++++++++myblog++++++++++++++++++++++++++++++*/
+.myblog {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 1524px;
+  padding: 80px 0;
+}
+.name-blog {
+  background-color: green;
+  width: 1170px;
+  height: 126px;
+}
+.elem-blog {
+  background-color: blue;
+  width: 1170px;
+  height: 1238px;
+}
+.part1-blog {
+  background-color: black;
+  width: 1170px;
+  height: 370px;
+  margin: 20px 0;
+}
+.part2-blog {
+  background-color: grey;
+  width: 1170px;
+  height: 370px;
+  margin: 20px 0;
+}
+.part3-blog {
+  background-color: black;
+  width: 1170px;
+  height: 370px;
+  margin: 20px 0;
+}
+/*+++++++++++++++++++++++++++mycont++++++++++++++++++++++++++++++*/
+.mycont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: blue;
+  width: 100%;
+  height: 1045px;
+  padding: 80px 0 0;
+}
+.name-cont {
+  background-color: green;
+  width: 1170px;
+  height: 126px;
+}
+.elem-cont {
+  display: flex;
+  background-color: black;
+  width: 1170px;
+  height: 607px;
+  margin: 40px 0 0;
+}
+.part1-cont {
+  background-color: green;
+  width: 570px;
+  height: 607px;
+  margin: 0 15px;
+}
+.part2-cont {
+  background-color: yellow;
+  width: 570px;
+  height: 607px;
+}
+.last-str {
+  background-color: aqua;
+  width: 1170px;
+  height: 27px;
+  margin: 40px 0 14px;
+}
+.last-embl {
+  background-color: grey;
+  width: 1170px;
+  height: 37px;
+  margin: 32px 0;
+}
